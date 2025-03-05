@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🚀 Passionate Data Science & Bioinformatics Enthusiast<br>🌱 Currently pursuing a Master's in Bioinformatics at Saarland University<br><br>I am a lifelong learner with an insatiable curiosity for technology and a drive to acquire invaluable knowledge in bioinformatics and data science. Alongside my academic studies, I have actively enhanced my data science skills through self-paced courses and hands-on projects, gaining proficiency in Python, R, machine learning, and data visualization.<br><br>With a strong foundation in Biomedical Engineering, I have developed exceptional problem-solving abilities, deep mathematical understanding, and an innovative engineering mindset. This interdisciplinary background enables me to approach complex challenges creatively while utilizing data-driven methodologies to uncover meaningful insights.<br><br>I am passionate about blending my knowledge in bioinformatics and data science to contribute to cutting-edge research and impactful solutions.
+🚀 Passionate about Bioinformatics & AI for Healthcare
+🌱 Master's student in Bioinformatics at Saarland University
+
+I am a lifelong learner with a deep passion for leveraging machine learning and data science to solve complex biomedical challenges. My expertise includes Python, R, deep learning, and data visualization, complemented by a solid foundation in algorithms, statistics, and data analysis.
+
+With a background in Biomedical Engineering, I bring strong problem-solving skills, a deep mathematical understanding, and an engineering mindset to tackle interdisciplinary problems. I have experience working with medical data such as EEG, ECG, and MRI, developing predictive models, and applying AI-driven approaches to medical diagnostics and research.
+
+Currently, I am exploring AI robustness, security, and trustworthy AI to enhance the reliability and fairness of AI models in healthcare. I am always eager to collaborate on impactful projects at the intersection of bioinformatics, machine learning, and AI ethics.
 
 
 ## 🌐 Socials:
