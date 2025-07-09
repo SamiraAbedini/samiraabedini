@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🚀 Passionate about Bioinformatics & AI for Healthcare <br>
+🚀 Passionate about Trustworthy Machine Learning <br>
 🌱 Master's student in Bioinformatics at Saarland University <br><br>
 
-I am a lifelong learner with a deep passion for leveraging machine learning and data science to solve complex biomedical challenges. My expertise includes Python, R, deep learning, and data visualization, complemented by a solid foundation in algorithms, statistics, and data analysis. <br>
+I am a lifelong learner with a deep passion for leveraging machine learning to solve security challenges. <br>
 
-With a background in Biomedical Engineering, I bring strong problem-solving skills, a deep mathematical understanding, and an engineering mindset to tackle interdisciplinary problems. I have experience working with medical data such as EEG, ECG, and MRI, developing predictive models, and applying AI-driven approaches to medical diagnostics and research. <br>
-
-Currently, I am exploring AI robustness, security, and trustworthy AI to enhance the reliability and fairness of AI models in healthcare. I am always eager to collaborate on impactful projects at the intersection of bioinformatics, machine learning, and AI ethics.
+Currently, I am exploring AI security, and trustworthy ML to enhance the reliability and fairness of Multi-Agent LLM systems.
 
 
 ## 🌐 Socials:
