@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 🚀 Passionate about Trustworthy Machine Learning <br>
-🌱 Master's student in Bioinformatics at Saarland University <br><br>
+🌱 Master's student at Saarland University <br><br>
 
 I am a lifelong learner with a deep passion for leveraging machine learning to solve security challenges. <br>
 
